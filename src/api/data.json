@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Construindo um aplicativo React",
+      "content": "Neste artigo, exploraremos como implementar esses padrões de design em umAplicação React usando componentes funcionais e ganchos. No final, você terá uma melhor compreensão de como manter sua base de código React limpa e sustentável.",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*vWiYXDrw68bsy3TiVUkXmA.jpeg",
+      "link": "https://medium.com/p/3e089f43fbc8"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Variáveis",
+      "content": "Como qualquer outra linguagem de programação, JavaScript depende muito de código bem estruturado e compreensível. Um dos blocos de construção fundamentais do código JavaScript limpo é a nomeação efetiva de variáveis.",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*9EY5obxhygJ3gRQybfWabw.png",
+      "link": "https://medium.com/p/94af115f42cd"
+    },
+    {
+      "id": 3,
+      "title": "Novo recurso CSS aninhado nativo em 2024",
+      "content": "O novo recurso CSS aninhado nativo muda tudo para o desenvolvimento front-end..",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*itJNycxTIiN22ScS1YVThw.png",
+      "link": "https://medium.com/p/17adb6fa9260"
+    }
+  ]
+  

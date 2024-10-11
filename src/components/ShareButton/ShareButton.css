@@ -1,0 +1,23 @@
+.share-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.share-buttons button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin: 0 8px;
+}
+
+.share-buttons img {
+  width: 24px;
+  height: 24px;
+}
+
+.share-success {
+  color: green;
+  margin-top: 8px;
+  font-size: 14px;
+}
