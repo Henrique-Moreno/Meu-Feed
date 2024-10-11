@@ -9,7 +9,7 @@ export default function App() {
 
   useEffect(() => {
     try {
-      setPosts(postsData); 
+      setPosts(postsData);
     } catch (error) {
       console.error("Error loading posts:", error);
     }
@@ -17,10 +17,10 @@ export default function App() {
 
   return (
     <>
+      <header className="app-header">
+        <h1>Meu Feed</h1>
+      </header>
       <main className="App">
-        <header className="app-header">
-          <h1>Meu Feed</h1>
-        </header>
         {posts.length > 0 ? (
           posts.map((post) => <PostCard key={post.id} post={post} />)
         ) : (
